@@ -9,4 +9,4 @@ Atráves do import da biblioteca scrapy e a declaração da url do site desejado
 
 ![a](https://user-images.githubusercontent.com/84475339/166062149-28ae611d-465f-4018-bf87-7dcac1cee661.png)
 
-O dicionário .json com o conteúdo filtrado pela api pode ser visualizado em: 
+O dicionário .json com o conteúdo filtrado pela api pode ser visualizado em: https://github.com/Otavio1505/api-quotes.py/blob/main/quotes.json
